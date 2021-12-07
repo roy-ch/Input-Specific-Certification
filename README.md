@@ -7,8 +7,8 @@ This repository is the official implementation of *Input-Specific Robustness Cer
 
 | File            | Description                                                            |
 | --------------- | ---------------------------------------------------------------------- |
-| `code/certify_iss.py`    | Certify with Input-specific Sampling|
-| `code/model.py`       | Model architectures   |
+| `certify_iss.py`    | Certify with Input-specific Sampling|
+| `model.py`       | Model architectures   |
 
 
 To install requirements:
